@@ -1,4 +1,4 @@
-# Travel Agent Omega
+# Travel Agent (Code will be updated shortly)
 
 A modern travel planning assistant that helps users plan their trips using AI-powered agents. The application features a real-time chat interface for natural conversation and intelligent trip planning.
 
