@@ -2,7 +2,7 @@
 
 A modern travel planning assistant that helps users plan their trips using AI-powered agents. The application features a real-time chat interface for natural conversation and intelligent trip planning.
 ## Demo Video
-Please view the demo here: https://sites.google.com/ds.study.iitm.ac.in/harshithravikopparam/home
+Please view the demo here: [https://sites.google.com/ds.study.iitm.ac.in/harshithravikopparam](https://sites.google.com/ds.study.iitm.ac.in/harshithravikopparam/research/personalisation-agenti-ai)
 ## Features
 
 - 🤖 AI-powered travel planning
